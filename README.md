@@ -8,3 +8,4 @@ follow this instructions to configure your Google App Engine and bitbucket :
 https://cloud.google.com/solutions/continuous-delivery-bitbucket-app-engine
 
 Don't forget to replace bower.json and requirements.txt with yours. 
+You can change the the google cloud sdk in the file "bitbucket-pipelines.yml" by modifying the value of SDK_VERSION variable.
