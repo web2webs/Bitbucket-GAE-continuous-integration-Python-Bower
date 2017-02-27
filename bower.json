@@ -1,0 +1,13 @@
+{
+  "name": "Good NAme",
+  "authors": [
+    "Nawfal ABBASSI SABER"
+  ],
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+
+  },
+  "private": true
+}
