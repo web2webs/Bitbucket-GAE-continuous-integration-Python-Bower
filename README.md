@@ -6,3 +6,5 @@ skeleton to do continuous integration for Google app engine with Pipelines tool 
 
 follow this instructions to configure your Google App Engine and bitbucket : 
 https://cloud.google.com/solutions/continuous-delivery-bitbucket-app-engine
+
+Don't forget to replace bower.json and requirements.txt with yours. 
